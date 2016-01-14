@@ -1,0 +1,182 @@
+1.Indicatorul va avertizeaza ca urmeaza: 
+un depou de trenuri;
+NU
+o trecere la nivel cu o cale ferata prevazuta cu bariere;
+NU
+o trecere la nivel cu o cale ferata fara bariere, cu semnalizare luminoasa.
+DA
+2.Este permisa oprirea in situatia data? 
+da, deoarece statia de tramvai este prevazuta cu refugiu pentru pietoni;
+NU
+nu;
+DA
+da, daca in statie nu se afla niciun tramvai.
+NU
+3.Puteti depasi in situatia data? 
+da, daca va asigurati ca manevra poate fi executata si semnalizati corespunzator;
+DA
+nu, deoarece vizibilitatea este redusa;
+NU
+nu, deoarece prin aceasta manevra veti trece peste axul drumului.
+NU
+4.Cum procedati in situatia data? 
+reduceti viteza si la nevoie opriti;
+DA
+depasiti fara restrictii autobuzul;
+NU
+opriti la 5 m in spatele autobuzului.
+NU
+5.In ce ordine vor circula autovehiculele prin intersectia prezentata, daca semafoarele nu functioneaza? 
+tramvaiul 1, tramvaiul 2, autoturismul;
+NU
+autoturismul, tramvaiul 1, tramvaiul 2;
+NU
+tramvaiul 1, autoturismul, tramvaiul 2.
+DA
+6.Cum este corect sa procedati, daca va aflati la volanul autoturismului rosu? 
+circuland spre stanga, va puteti angaja abia ultimul;
+NU
+va angajati primul in traversare;
+DA
+permiteti trecerea tramvaiului.
+NU
+7.Sunteti obligat sa opriti autovehiculul pe care il conduceti: 
+la semnalul politistului care dirijeaza circulatia;
+DA
+la semnalul politistului, dar numai daca acesta corespunde semnalului de culoare rosie al semaforului;
+NU
+la semnalul pietonilor care traverseaza strada pe la coltul intersectiei fara marcaje.
+NU
+8.Ce semnifica indicatorul impreuna cu panoul aditional? 
+sfarsitul zonei de actiune a indicatorului Stationarea interzisa ;
+NU
+sfarsitul zonei de actiune a indicatorului Oprirea interzisa ;
+DA
+inceputul zonei in care este interzisa oprirea.
+NU
+9.Virati la stanga in intersectie. Cum procedati? 
+acordati prioritate autoturismului din stanga;
+NU
+aveti prioritate fata de autoturismul alb din stanga;
+DA
+nu va este permis sa virati la stanga.
+NU
+10.Imobilizarea unui brat fracturat se face: 
+in dreptul osului fracturat;
+NU
+cuprinzand osul fracturat si articulatia superioara;
+NU
+cuprinzand osul fracturat si cele doua articulatii, respectiv cea superioara si inferioara.
+DA
+11.In care dintre urmatoarele situatii va este interzis sa efectuati depasirea? 
+pe drumurile cu o singura banda de circulatie pe sens;
+NU
+la mai putin de 150 m de trecerile la nivel cu calea ferata;
+NU
+in zona de actiune a indicatorului Depasirea interzisa .
+DA
+12.Cu ce viteza veti circula in conditii de ceata, ploi torentiale, ninsori abundente, daca vizibilitatea este redusa sub 100 m? 
+maxim 50 km/h in localitati sau 60 km/h in afara localitatilor;
+NU
+reduceti viteza pana la limita evitarii oricarui pericol;
+NU
+maxim 30 km/h in localitati sau 50 km/h in afara localitatilor.
+DA
+13.Care dintre urmatorii factori reprezinta baza conduitei preventive? 
+cunoasterea normelor de circulatie si a regulilor de conducere a autovehiculului;
+DA
+capacitatea de a fi politicos si disciplinat in traficul rutier;
+DA
+incadrarea in baremele legale privind sanatatea.
+NU
+14.Ce va indica, de regula, faptul ca bateria de acumulatori este descarcata? 
+la aprinderea farurilor, intensitatea luminoasa a acestora scade progresiv;
+DA
+actionand claxonul, acesta emite un sunet slab, intrerupt;
+DA
+demontand bateria, constatam ca aceasta este mai usoara decat de obicei.
+NU
+15.Pe ce drumuri sunt permise oprirea si stationarea vehiculelor si pe partea stanga, in sensul de mers?
+pe drumurile cu trafic redus;
+NU
+pe drumurile cu sens unic, daca ramane libera cel putin o banda de circulatie;
+DA
+pe orice drum.
+NU
+16.Ce trebuie sa faceti pentru a evita un accident de circulatie? 
+sa nu conduceti autoturismul decat atunci cand probleme grave impun acest lucru;
+NU
+sa va asigurati intotdeauna un partener care sa cunoasca bine traseul parcurs;
+NU
+sa anticipati si sa contracarati la timp manevrele imprudente ale partenerilor de drum si sa respectati permanent regulile de circulatie.
+DA
+17.Ce obligatie are conducatorul unui autovehicul imobilizat intr-un pasaj subteran? 
+sa opreasca motorul si sa actioneze luminile de avarie;
+DA
+sa tracteze autovehiculul pana la iesirea din pasajul subteran;
+NU
+sa anunte imediat pompierii in legatura cu locul in care se afla.
+NU
+18.Cand masurati presiunea din pneuri? 
+inaintea plecarii in cursa, cand pneurile sunt reci;
+DA
+dupa parcurgerea a cel putin 400-500 km, cand pneurile sunt calde;
+NU
+doar atunci cand observam ca autovehiculul este inclinat intr-o parte.
+NU
+19.In care dintre situatii se suspenda exercitarea dreptului de a conduce autovehicule? 
+in cazul depasirii in mod repetat, cu mai mult de 20 km/h, a vitezei maxime legale;
+NU
+in cazul neopririi la semnalul agentului de cale ferata;
+NU
+in cazul neprezentarii in termen de 24 de ore la unitatea de politie competenta pe raza careia s-a produs un accident cu avarierea vehiculului.
+DA
+20.Care dintre tipurile de semnalizare de mai jos vor fi respectate cu prioritate? 
+semnalele luminoase;
+NU
+semnalizarea temporara, care modifica regimul normal de desfasurare a circulatiei;
+NU
+semnalele si indicatiile politistului.
+DA
+21.Semnalul politistului rutier aflat intr-un autovehicul al politiei, efectuat cu bratul, cu sau fara baston reflectorizant, scos pe partea laterala dreapta a vehiculului, semnifica: 
+oprire pentru conducatorii vehiculelor care circula in spatele autovehiculului politiei;
+DA
+reducerea vitezei de catre cei care circula in spatele autovehiculului politiei;
+NU
+semnalul se adreseaza celor care circula din sens opus.
+NU
+22.Ce reprezinta distanta de 50 m necesara pentru semnalizarea schimbarii directiei de mers in localitati? 
+distanta fata de vehiculul care se deplaseaza in spatele dvs.;
+NU
+distanta fata de locul in care se termina executarea manevrei de depasire;
+NU
+distanta dintre locul in care se semnalizeaza intentia de a depasi si locul in care se incepe manevra.
+DA
+23.Puteti depasi tramvaiul oprit intr-o statie fara refugiu pentru pietoni, pe o strada cu sens unic? 
+da, dar numai pe partea stanga;
+NU
+da, dar numai daca nu exista pietoni in statia de tramvai;
+NU
+nu, deoarece depasirea este interzisa.
+DA
+24.Viteza de deplasare trebuie sa nu depaseasca 30 km/h in localitati sau 50 km/h in afara localitatilor: 
+la intalnirea indicatorului Drum cu prioritate ;
+NU
+in curbe deosebit de periculoase semnalizate ca atare sau in care vizibilitatea este mai mica de 50 m;
+DA
+atunci cand se circula in aceeasi directie cu autobuzele oprite in statie, pe drumurile cu o singura banda pe sens.
+NU
+25.Autoturismul echipat cu o remorca poate circula pe autostrada? 
+nu;
+NU
+da, daca ansamblul respectiv poate depasi viteza de 50 km/h;
+DA
+da, daca ati obtinut autorizatie de la politia rutiera.
+NU
+26.Ce le este interzis conducatorilor de autovehicule si de tramvaie?
+sa foloseasca telefoanele mobile in timpul mersului, fara sa aiba sistem de tip maini libere ;
+DA 
+sa foloseasca luminile de avarie in localitati;
+NU
+sa se angajeze in discutii cu alti pasageri.
+NU

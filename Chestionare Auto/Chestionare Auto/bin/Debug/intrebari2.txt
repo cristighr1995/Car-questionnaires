@@ -1,0 +1,182 @@
+1.Va este permisa trecerea peste marcajul longitudinal din imagine? 
+da, deoarece linia discontinua este cea mai apropiata de vehiculul pe care il conduceti;
+DA
+nu, deoarece este un marcaj dublu;
+NU
+nu, deoarece in acest caz depasirea este interzisa.
+NU
+2.Cum trebuie sa procedati atunci cand intentionati sa finalizati o depasire? 
+semnalizati revenirea si efectuati manevra in conditii de siguranta;
+DA
+dupa reincadrare, semnalizati cu luminile de avarie;
+NU
+claxonati si va angajati pe partea dreapta, direct in fata vehiculului depasit.
+NU
+3.Conducatorul de autovehicul poate efectua depasirea pe partea dreapta a autovehiculului al carui conducator a semnalizat intentia schimbarii directiei de mers spre stanga? 
+da, daca vehiculul din fata s-a angajat corespunzator parasirii sensului de mers;
+DA
+da, daca s-a creat spatiu suficient pentru aceasta manevra;
+DA
+nu.
+NU
+4.La intersectia nedirijata dintre un drum national si unul judetean, comunal sau local, prioritatea de trecere se acorda:	
+vehiculelor care circula pe drumul judetean, comunal sau local;
+NU
+vehiculelor care vin din dreapta;
+NU
+vehiculelor care circula pe drumul national.
+DA
+5.Cand este permisa trecerea la nivel cu o cale ferata fara bariere, prevazuta cu semnalizare luminoasa, daca tocmai a trecut un tren? 
+dupa ce s-a stins lumina rosie intermitenta;
+DA
+dupa ce a trecut ultimul vagon;
+NU
+atunci cand pleaca vehiculele aflate de cealalta parte a caii ferate.
+NU
+6.Aveti obligatia de a opri imediat autovehiculul la semnalele adresate de: 
+membrii patrulelor scolare de circulatie, de la trecerile pentru pietoni din apropierea unitatilor de invatamant;
+DA
+personalul autorizat din cadrul Ministerului Transporturilor;
+NU
+lucratorii ce isi desfasoara activitatea in cadrul Administratiei Drumurilor.
+NU
+7.Daca semaforul in functiune se afla instalat de cealalta parte a intersectiei, conducatorul de autovehicul: 
+nu este obligat sa respecte semnificatia semnalelor luminoase, deoarece nu i se adreseaza;
+NU
+este obligat sa respecte semnificatia semnalelor luminoase, doar daca semaforul este insotit de un semn aditional care indica directiile carora li se adreseaza semnalele;
+NU
+este obligat sa respecte semnificatia semnalelor luminoase ale acestuia, daca un alt semafor instalat la intrarea in intersectie are in functiune un semnal similar.
+DA
+8.Depasirea nu este permisa: 
+atunci cand vehiculul ce urmeaza a fi depasit ruleaza cu viteza admisa de lege;
+NU
+in orice locuri si situatii in care vizibilitatea nu permite executarea manevrei;
+DA
+atunci cand traficul rutier este aglomerat.
+NU
+9.Intoarcerea autovehiculului este interzisa: 
+unde marcajul axial este discontinuu;
+NU
+in intersectiile unde este necesara manevrarea inainte si inapoi;
+DA
+in zona de actiune a indicatorului Stationarea interzisa.
+NU
+10.La iesirea din zonele rezidentiale sau pietonale, sunteti obligat sa acordati prioritate: 
+autovehiculelor;
+NU
+pietonilor de pe sensul opus de circulatie;
+NU
+tuturor vehiculelor cu care va intersectati.
+DA
+11.Precizati in care dintre situatii este interzisa stationarea voluntara a vehiculelor? 
+in dreptul cailor de acces care deservesc proprietatile alaturate drumurilor publice;
+DA
+in zona aglomerata a pietelor;
+NU
+in pante si in rampe.
+DA
+12.Ce manevre sunt interzise pe autostrada? 
+oprirea si efectuarea unei pene de cauciuc;
+NU
+invatarea conducerii unui vehicul;
+DA
+incercarea prototipurilor de sasiuri si de vehicule cu motor.
+DA
+13.In care dintre situatii se retine certificatul de inmatriculare sau inregistrare? 
+cand inspectia tehnica periodica a expirat;
+DA
+daca zgomotul in mers sau stationare depaseste limita legala admisa;
+DA
+cand motorul emite noxe poluante peste limitele legale admise.
+DA
+14.Este permisa stationarea autovehiculelor pe timpul noptii pe partea carosabila a unui drum comunal neiluminat? 
+da, daca se aprind luminile de pozitie sau de stationare;
+DA
+nu, intrucat in toate cazurile se interzice pe timpul noptii stationarea pe partea carosabila;
+NU
+da, daca in afara luminilor de pozitie, prezenta autovehiculului este semnalizata si cu ajutorul triunghiurilor reflectorizante.
+DA
+15.Ce se intelege prin conduita preventiva? 
+un concept valabil pentru conducatorii auto incepatori;
+NU
+comportamentul rutier care asigura prevenirea accidentelor, prin anticiparea si evitarea actiunilor incorecte ale partenerilor de drum, precum si adaptarea vitezei de deplasare la conditiile meteo-rutiere specifice;
+DA
+calitatea unor conducatori auto de a circula prudent, cu viteza redusa, pentru a nu crea neplaceri in trafic celorlalti utilizatori ai drumului public.
+NU
+16.Cand se aplica regulile conduitei preventive? 
+cand conduceti efectiv autovehiculul pe drumurile publice;
+NU
+cand autovehiculul este oprit pe partea carosabila;
+NU
+atat in timpul conducerii efective, cat si atunci cand autovehiculul este oprit.
+DA
+17.Conducatorului auto i se interzice: 
+sa arunce din vehicul obiecte, substante sau alte bunuri;
+DA
+sa deschida usile, daca vehiculul este oprit sau stationat pe partea carosabila;
+NU
+sa foloseasca instalatia de sonorizare cu care este echipat autoturismul.
+NU
+18.Cum se pedepseste conducerea pe drumurile publice a unui autovehicul din categoria C, de catre o persoana al carei permis este valabil pentru categoria B? 
+penal;
+DA
+contraventional;
+NU
+amenda contraventionala si retinerea permisului de conducere.
+NU
+19.Conducatorul unui autoturism poate transporta obiecte al caror gabarit depaseste, impreuna cu incarcatura, dimensiunile acestuia? 
+da, daca extremitatea obiectelor este semnalizata cu un steag rosu;
+NU
+nu;
+DA
+da, daca obiectele depasesc latimea autovehiculului.
+NU
+20.Perna de aer (AIRBAG-ul) asigura: 
+amortizarea rapida a trepidatiilor datorate denivelarilor existente pe drumul public;
+NU
+protectia suplimentara a persoanelor in cazul unui impact puternic al autovehiculului;
+DA
+posibilitatea conducerii relaxate, cu capul sprijinit de aceasta.
+NU
+21.La intalnirea indicatorului aveti obligatia: 
+de a circula cu atentie, deoarece urmeaza o curba la stanga;
+DA
+de a schimba obligatoriu directia de mers spre stanga;
+NU
+de a reduce viteza, deoarece urmeaza o intersectie periculoasa.
+NU
+22.Indicatorul nu permite schimbarea directiei de mers spre stanga: 
+in intersectia inaintea careia este instalat;
+DA
+in toate intersectiile, pana la aparitia indicatorului "Sfarsitul tuturor restrictiilor";
+NU
+la 200 m de la locul in care este instalat acesta.
+NU
+23.Indicatorul va obliga: 
+sa circulati inainte sau la dreapta in prima intersectie;
+DA
+sa virati la stanga, deoarece accesul in celelalte directii este interzis;
+NU
+sa urmati traseul ocolitor, presemnalizat la dreapta.
+NU
+24.Acest indicator va avertizeaza ca urmeaza: 
+alte pericole;
+DA
+un drum fara marcaje;
+NU
+un drum cu marcaje;
+NU
+25.Conducatorul autoturismului din imagine va circula cu: 
+80 km/h;
+DA
+90 km/h;
+NU
+100 km/h;
+NU
+26.Care dintre autovehicule stationeaza gresit? 
+autocamionul;
+NU
+autoutilitara;
+NU
+ambele autovehicule.
+DA

@@ -1,0 +1,56 @@
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto Bun.exe
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto Bun.pdb
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Chestionar Auto Bun.exe
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Chestionar Auto Bun.pdb
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form2.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form1.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form3.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form4.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form5.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form6.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form7.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto Bun.exe
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto Bun.pdb
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Chestionar Auto Bun.exe
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Chestionar Auto Bun.pdb
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form2.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form1.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form3.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form4.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form5.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form6.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form7.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Properties.Resources.resources
+C:\Users\Gherghina\Documents\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form8.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form9.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form10.resources
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form11.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto Bun.exe
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto Bun.pdb
+H:\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Chestionar Auto Bun.exe
+H:\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Chestionar Auto Bun.pdb
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csprojResolveAssemblyReference.cache
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form10.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form11.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form2.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form1.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form3.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form4.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form5.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form6.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form7.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form8.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Form9.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar_Auto_Bun.Properties.Resources.resources
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Gherghina\Desktop\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csproj.ResolveComReference.cache
+H:\Chestionar Auto Bun\Chestionar Auto Bun\obj\x86\Debug\Chestionar Auto.csproj.ResolveComReference.cache
